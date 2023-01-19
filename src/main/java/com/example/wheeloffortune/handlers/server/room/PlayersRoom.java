@@ -1,4 +1,4 @@
-package handlers.server.room;
+package com.example.wheeloffortune.handlers.server.room;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package game;
+package com.example.wheeloffortune.game;
 
 import lombok.Getter;
 

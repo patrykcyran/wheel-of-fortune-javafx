@@ -1,7 +1,8 @@
-package handlers.server.room;
+package com.example.wheeloffortune.handlers.server.room;
 
-import handlers.Handler;
-import handlers.players.PlayerModel;
+
+import com.example.wheeloffortune.handlers.Handler;
+import com.example.wheeloffortune.handlers.players.PlayerModel;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 

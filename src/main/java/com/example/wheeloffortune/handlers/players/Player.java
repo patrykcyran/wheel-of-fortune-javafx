@@ -1,7 +1,7 @@
-package handlers.players;
+package com.example.wheeloffortune.handlers.players;
 
-import game.Functions;
-import handlers.Handler;
+import com.example.wheeloffortune.game.Functions;
+import com.example.wheeloffortune.handlers.Handler;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;

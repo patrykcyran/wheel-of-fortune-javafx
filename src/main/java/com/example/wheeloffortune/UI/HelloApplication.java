@@ -1,4 +1,4 @@
-package com.example.wheeloffortune;
+package com.example.wheeloffortune.UI;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

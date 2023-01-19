@@ -1,4 +1,4 @@
-package handlers.players;
+package com.example.wheeloffortune.handlers.players;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

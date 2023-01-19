@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<Pane fx:id="wheelBox" prefHeight="269.0" prefWidth="170.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.wheeloffortune.WheelController">
+<Pane fx:id="wheelBox" prefHeight="269.0" prefWidth="170.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.wheeloffortune.UI.WheelController">
 
     <ImageView fx:id="wheelImageView" fitHeight="400.0" fitWidth="400.0" layoutX="43.0" layoutY="-280.0" pickOnBounds="true" preserveRatio="true">
         <image>

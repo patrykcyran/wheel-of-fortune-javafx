@@ -1,4 +1,6 @@
-import handlers.server.Server;
+package com.example.wheeloffortune;
+
+import com.example.wheeloffortune.handlers.server.Server;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;

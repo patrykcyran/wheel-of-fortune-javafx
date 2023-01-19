@@ -1,4 +1,4 @@
-package com.example.wheeloffortune;
+package com.example.wheeloffortune.UI;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
